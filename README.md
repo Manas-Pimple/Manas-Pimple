@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Manas Pimple</h1>
-<h3 align="center">Final Year IT Engineering student</h3>
+<h3 align="center">Currently working in NEC software solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Deep Fake Detection System**
+- 🔭 I’m currently working on *backend development using sql and java springboot**
 
-- 🌱 I’m currently learning **Data Science and Software Testing**
 
 - 📫 How to reach me **manasmpimple@gmail.com**
 
